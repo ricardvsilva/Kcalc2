@@ -31,7 +31,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="972b1a7f-fe7e-4cb1-99ff-02ef0d95cdb5" name="Default Changelist" comment="Calculadora Kotlin Android Studio." />
+    <list default="true" id="972b1a7f-fe7e-4cb1-99ff-02ef0d95cdb5" name="Default Changelist" comment="Calculadora Kotlin Android Studio.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -202,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609788236820</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Calculadora Kotlin Android Studio.">
+      <created>1609788400762</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609788400762</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -230,6 +239,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
